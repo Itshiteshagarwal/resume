@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<meta charset="UTF-8">
+				<title>Resume</title>
+
+
+</head>
+<body style="border:5px solid black;padding-left:10px;">
+				<header>
+								<h1 align="center ">Hitesh agarwal<br></h1><h2 align="center"" >web designer </h2>
+			<div align="center ">	<address>jaipur<br>Rajasthan</address>
+				<a href="mailto: hitesh@gmail.com">agarwalhitesh551@gmail.com</a></div><br><hr>
+				</header>
+				<section>
+								<h2 align="center" style="background-color:#95fff5;margin:5px 5px 5px 5px;padding:5px 5px 5px 5px;">career goals</h2>	
+					<br>			<h3 style="background-color:#95fff5;margin:5px 5px 5px 5px;padding:5px 5px 5px 5px;" >objectives</h3>
+								<p>Hard working and effective Web Developer with more than 10 years of expertise. Fluent in english, astute and deadline-driven. Strong understanding of web developing and coding</p>
+				</section>
+				<hr>
+				<section>
+							<h3 style ="background-color:#95fff5;margin:5px 5px 5px 5px;padding:5px 5px 5px 5px;">skills</h3>	
+							<ul>
+											<li>Experience designing and programming web pages
+
+
+
+
+
+</li>
+											<li>		Extensive experience using multiple standard programming languages				</li>
+			<li>Strong understanding of aesthetic and design principals </li>	<li>Excellent troubleshooting and bug resolutions abilities</li>		<li>Critical thinking and problem-solving skills
+Evaluation and analysis abilities </li><li>Excellent communication skills, including written and verbal</li>
+<li>Strong attention to small details </li>	</ul>
+				</section><hr>
+				<section>
+
+								<h3 style="background-color:#95fff5;margin:5px 5px 5px 5px;padding:5px 5px 5px 5px;">Experience</h3>
+								<p>internship at starcaptain<br>as a web developer</p>
+				</section> 
+				<hr>
+				<section>
+
+								<h3 style="background-color:#95fff5;margin:5px 5px 5px 5px;padding:5px 5px 5px 5px;">references</h3>
+								<p>reference from star captain</p>
+				</section> 
+
+				<footer>
+								<br>
+								<hr><br>
+					<h3 align="left">Hitesh agarwal<br>web designer</h3>
+			<div align ="right" style="margin :0px 5px 5px 5px">	<address>jaipur<br>Rajasthan</address>
+				<a href="mailto: hitesh@gmail.com">hitesh@gmail.com</a></div>			
+				</footer>
+
+
+</body>
+</html>
